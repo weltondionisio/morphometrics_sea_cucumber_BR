@@ -102,7 +102,7 @@ The underlying morphometric and environmental dataset is not publicly available 
 
 The statistical and computational analyses available in this repository were conducted by **Dr. Welton Dionisio-da-Silva**.
 
-### Corresponding author
+### Corresponding and first author
 
 **Dr. Victória Stevenson**  
 Email: [victorianuunees@gmail.com](mailto:victorianuunees@gmail.com)
